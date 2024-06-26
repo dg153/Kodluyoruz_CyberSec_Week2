@@ -35,7 +35,7 @@ for i in points:
             ycoord = (i[1],j[1])
             plt.plot(x1, y1, marker ='o')
             plt.plot(x2, y2, marker ='o')
-            plt.plot(xcoord,ycooord, color ="red", linewidth=3)
+            plt.plot(xcoord,ycoord, color ="red", linewidth=3)
             distances.append(dist)
 
 """plt.fill((points[0],points[1],points[2]), color = '#3f9be3')"""
