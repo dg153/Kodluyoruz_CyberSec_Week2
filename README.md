@@ -1,4 +1,4 @@
-![image](https://github.com/dg153/Kodluyoruz_CyberSec_Week2/assets/34800762/1edbdc92-af44-4567-8606-16b60925ade8)# Kodluyoruz_CyberSec_Week2
+# Kodluyoruz_CyberSec_Week2
 Python Objective For Week 2
 
 The 2nd Weeks Objective
